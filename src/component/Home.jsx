@@ -26,7 +26,7 @@ const Home = () => {
                 {/* <a href="#"><i className='bx bxl-linkedin'></i></a> */}
             </div>
 
-            <a href="#" className="btn">Download CV</a>
+            <a href="https://bit.ly/priti-munde" target='_blank' className="btn">Download CV</a>
         </div>
 
         <div className="profession-container absolute top-1/2 transform -translate-y-1/2 w-screen h-screen truncate pointer-events-none">
