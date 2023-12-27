@@ -6,12 +6,12 @@ import js from '../assets/js.png'
 import react from '../assets/react.png'
 import vsCode from '../assets/vsCode.png'
 import github from '../assets/github.png'
-import springboot from '../assets/spring-boot.png'
 import tailwind from '../assets/Tailwind.png'
 import IntelliJ from '../assets/IntelliJ.png'
 import firebase from '../assets/firebase.png'
 import mysql from '../assets/mysql.png'
 import materialUi from '../assets/material-ui.png'
+import springboot from "../assets/springboot.png"
 
 
 const Skills = () => {
